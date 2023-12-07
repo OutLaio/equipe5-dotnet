@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repositorios\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj": {}
+    "/home/tales/equipe5-dotnet/AvaliacaoDotNet/AvaliacaoDotNet.csproj": {}
   },
   "projects": {
-    "E:\\repositorios\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj": {
+    "/home/tales/equipe5-dotnet/AvaliacaoDotNet/AvaliacaoDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repositorios\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
+        "projectUniqueName": "/home/tales/equipe5-dotnet/AvaliacaoDotNet/AvaliacaoDotNet.csproj",
         "projectName": "AvaliacaoDotNet",
-        "projectPath": "E:\\repositorios\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
-        "packagesPath": "C:\\Users\\godof\\.nuget\\packages\\",
-        "outputPath": "E:\\repositorios\\equipe5-dotnet\\AvaliacaoDotNet\\obj\\",
+        "projectPath": "/home/tales/equipe5-dotnet/AvaliacaoDotNet/AvaliacaoDotNet.csproj",
+        "packagesPath": "/home/tales/.nuget/packages/",
+        "outputPath": "/home/tales/equipe5-dotnet/AvaliacaoDotNet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\godof\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/tales/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,30 +48,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }
