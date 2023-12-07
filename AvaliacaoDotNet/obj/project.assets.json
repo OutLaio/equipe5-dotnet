@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Breno\\.nuget\\packages\\": {}
+    "C:\\Users\\Kayque-PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Breno\\Desktop\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
+      "projectUniqueName": "C:\\Users\\Kayque-PC\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
       "projectName": "AvaliacaoDotNet",
-      "projectPath": "C:\\Users\\Breno\\Desktop\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
-      "packagesPath": "C:\\Users\\Breno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Breno\\Desktop\\equipe5-dotnet\\AvaliacaoDotNet\\obj\\",
+      "projectPath": "C:\\Users\\Kayque-PC\\equipe5-dotnet\\AvaliacaoDotNet\\AvaliacaoDotNet.csproj",
+      "packagesPath": "C:\\Users\\Kayque-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kayque-PC\\equipe5-dotnet\\AvaliacaoDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Breno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kayque-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

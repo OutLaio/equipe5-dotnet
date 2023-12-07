@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AvaliacaoDotNet
-build_property.ProjectDir = C:\Users\Breno\Desktop\equipe5-dotnet\AvaliacaoDotNet\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\Kayque-PC\equipe5-dotnet\AvaliacaoDotNet\
